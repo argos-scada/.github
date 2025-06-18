@@ -8,7 +8,7 @@ Uma das principais vantagens do Argos SCADA é sua capacidade de personalizaçã
 
 <p align="center">
   <a href="https://luminiitsolutions.com/">
-    <img src="src/assets/apresentacao.jpg" alt="Apresentação Argos SCADA" width="50%" />
+    <img src="profile/src/assets/apresentacao.jpg" alt="Apresentação Argos SCADA" width="50%" />
   </a>
 </p>
 
